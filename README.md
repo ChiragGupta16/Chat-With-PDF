@@ -10,5 +10,3 @@ LaMini-T5-738M model
 ◾ Employed Chroma DB to store and manage the generated embeddings, ensuring fast data retrieval.<br>
 ◾ Created a robust pipeline using Hugging Face transformers and LaMini-T5-738M model, enabling accurate responses to user queries.<br>
 ◾ Implemented a user-friendly chatbot interface with Streamlit, allowing users to interact with the system seamlessly and gain insights from complex logistics data.
-
-## To run it, simply open command prompt and type "streamlit run app.py"
